@@ -1,0 +1,12 @@
+[build-system]
+requires = ["flit_core >=2,<4"]
+build-backend = "flit_core.buildapi"
+
+[tool.flit.metadata]
+module = "autoenum"
+author = "Olof Bjarnason"
+author-email = "olof.bjarnason@gmail.com"
+home-page = "https://github.com/objarni/autoenum"
+classifiers = ["License :: OSI Approved :: MIT License"]
+description-file = "README.md"
+
